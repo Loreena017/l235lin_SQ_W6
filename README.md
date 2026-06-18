@@ -16,7 +16,7 @@ Explore the world, survive enemy waves as you move north, then enter the glowing
 
 | File | Source |
 |-------|--------|
-|'assets/images/grass-background.jpg' [1]| mountain base |
+|'assets/images/grass-background.jpg' [1]| grassy background |
 |'assets/images/villager_sprite' [1]| player sprite sheet |
 |'assets/images/wolf-character' [2]| enemy wolfs |
 |'assets/sounds/background-music.mp3' [4]| background sounds|
