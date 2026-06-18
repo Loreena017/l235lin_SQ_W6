@@ -4,26 +4,26 @@
       "spawnAt": 1600,
       "enemies": [
         { "speed": 1.2 },
-        { "speed": 1.2 },
-        { "speed": 1.2 }
+        { "speed": 1.0 },
+        { "speed": 1.0 }
       ]
     },
     {
-      "spawnAt": 1000,
+      "spawnAt": 1300,
       "enemies": [
         { "speed": 1.5 },
         { "speed": 1.5 },
         { "speed": 1.5 },
-        { "speed": 1.5 }
+        { "speed": 1.0 }
       ]
     },
     {
-      "spawnAt": 500,
+      "spawnAt": 800,
       "enemies": [
-        { "speed": 1.8 },
-        { "speed": 1.8 },
-        { "speed": 1.8 },
-        { "speed": 1.8 },
+        { "speed": 1.0 },
+        { "speed": 1.0 },
+        { "speed": 1.0 },
+        { "speed": 1.5 },
         { "speed": 2.0 }
       ]
     }
